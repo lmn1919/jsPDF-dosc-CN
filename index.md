@@ -6,7 +6,7 @@ jsPDF现在由 [yWorks - the diagramming experts](https://www.yworks.com/) 共�
 
 #### [在线演示](http://raw.githack.com/MrRio/jsPDF/master/) | [文档](http://raw.githack.com/MrRio/jsPDF/master/docs/)
 
-```
+```go
 clip(rule) → {jsPDF}
 ```
 
